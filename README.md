@@ -23,3 +23,9 @@ Created a modular python based code (which takes user based investment parameter
 7. Plot the cumulative returns for portfolio forward returns
 8. Present the sharpe ratio and annual returns for the portfolio from 2010-01-01 to investment start date
 9. Output the stock recommendation from the strategy based on investment start date
+
+# Results:
+
+Period: 2010-01-01 to 2021-12-31
+
+1. The momentum strategy provided an average annual returns of ~24% on monthly rebalancing, i.e. nearly 3 times more returns than the index during the same period. The strategy increased the initial investment by 10 times from 2010 to 2021 while index fund increased it by 3.5 times.
