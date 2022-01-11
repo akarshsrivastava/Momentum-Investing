@@ -5,6 +5,6 @@ We will restrict ourselves with investment in the financial markets. Many strate
 One such investing strategy is Momentum Strategy.
 Momentum investing is a strategy that aims to capitalize on the continuance of existing trends in the market.
 
-## Momentum investing involves going long stocks, futures, market exchange traded funds (ETFs), or any financial instrument showing upward-trending prices and short the respective assets with downward-trending prices.
+Momentum investing involves going long stocks, futures, market exchange traded funds (ETFs), or any financial instrument showing upward-trending prices and short the respective assets with downward-trending prices.
 
 Strategy:
