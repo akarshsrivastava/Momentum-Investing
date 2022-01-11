@@ -10,6 +10,8 @@ Momentum investing involves going long stocks, futures, market exchange traded f
 
 In this project, I have calculated the cumulative historical 12 months returns. Based on these returns, bucketed the stocks in quantiles and longed the top quantile. Back-tested the strategy from 2010 to 2021, the strategy provided more than 4 times returns than nifty index. 
 
+# Project:
+
 Created a modular python based code (which takes user based investment parameters like, rebalancing period, investment start date and bucket size i.e. quantile/decile etc.),  applies the momentum strategy on NIFTY 50 (Indian Equity Index) stocks, and outputs the stock recommendations to invest on the investment start date. Here the investment date is end of each period starting from 2010-01-01 for example, month end dates for monthly rebalancing, quarter end dates for quaterly rebalancing and so on.
 
 # Project Implementation
