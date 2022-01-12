@@ -8,7 +8,9 @@ Momentum investing involves going long stocks, futures, market exchange traded f
 
 # Strategy:
 
-In this project, I have calculated the cumulative historical 12 months returns. Based on these returns, bucketed the stocks in quantiles and longed the top quantile. Back-tested the strategy from 2010 to 2021, the strategy provided more than 4 times returns than nifty index. 
+In this project, I have calculated the cumulative historical 12 months returns. Based on these returns, bucketed the stocks in quantiles and longed the top quantile. Back-tested the strategy from 2010 to 2021, the strategy provided more than 4 times returns than nifty index.
+
+
 
 # Project:
 
