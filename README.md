@@ -10,7 +10,7 @@ Momentum investing involves going long stocks, futures, market exchange traded f
 
 In this project, I have calculated the cumulative historical 12 months returns. Based on these returns, bucketed the stocks in quantiles and longed the top quantile. Back-tested the strategy from 2010 to 2021, the strategy provided more than 4 times returns than nifty index.
 
-
+After creating the equal weighted portfolio, estimated the portfolio's sensitivity (Beta) to market risk premium and Excess return, Alpha (Return not explained by market risk premium) using CAPM model. 
 
 # Project:
 
@@ -27,9 +27,11 @@ Created a modular python based code (which takes user based investment parameter
 7. Plot the cumulative returns for portfolio forward returns
 8. Present the sharpe ratio and annual returns for the portfolio from 2010-01-01 to investment start date
 9. Output the stock recommendation from the strategy based on investment start date
+10. Estimated the portfolio's sensitivity (Beta) to market risk premium and Excess return, Alpha (Return not explained by market risk premium) using CAPM model.
 
 # Results:
 
 Period: 2010-01-01 to 2021-12-31
 
 1. The momentum strategy provided sharpe ratio of 1.28 and average annual returns of ~24% on monthly rebalancing, i.e. nearly 3 times more returns than the index during the same period. The strategy increased the initial investment by 10 times from 2010 to 2021 while index fund increased it by 3.5 times.
+2. 
